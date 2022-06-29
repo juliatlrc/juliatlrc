@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá, mundo! 👋
+- 🌱 Estudando JavaScript 
+- 👯 Estou procurando um estágio para adquirir conhecimento 
+- 💬 Contate-me no email: julia.tallcaroline@gmail.com
+- 😄 Pronouns: ela/dela
 
-<!--
-**juliatlrc/juliatlrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/juliatlrc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliatlrc&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliatlrc&layout=compact&langs_count=7&theme=gruvbox_light"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="center" alt="Julia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/qDgVPD1/download20220603161828-1.png">
+ 
+ ##
+ <div>
+   <a href = "mailto:julia.tallcaroline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAlia-tallarico-3266ab22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
+  
+
+  
