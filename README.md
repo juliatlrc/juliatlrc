@@ -1,5 +1,5 @@
 ## Olá, mundo! 👋
-- 🌱 Estudando lógica de programação e Javascript
+- 🌱 Estudando Javascript e Dart 
 - 👯 Estou procurando um estágio para adquirir conhecimento 
 - 💬 Contate-me no email: julia.tallcaroline@gmail.com
 - 😄 Pronouns: ela/dela
