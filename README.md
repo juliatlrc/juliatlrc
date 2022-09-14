@@ -1,5 +1,5 @@
 ## Olá, mundo! 👋
-- 🌱 Estudando Javascript e Dart 
+- 🌱 Estudando Dart e Flutter
 - 👯 Estou procurando um estágio para adquirir conhecimento 
 - 💬 Contate-me no email: julia.tallcaroline@gmail.com
 - 😄 Pronouns: ela/dela
