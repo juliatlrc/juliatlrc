@@ -1,6 +1,6 @@
 ## Olá, mundo! 👋
 - 🌱 Estudando Angular
-- 💙 Intern Dev Full Stack @ Itaú
+- 💙 Dev Full Stack Jr @ Itaú
 - 💬 Contate-me no email: julia.tallcaroline@gmail.com
 - 😄 Pronouns: ela/dela
 
