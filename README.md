@@ -1,8 +1,7 @@
 ## Olá, mundo! 👋
-- 🌱 Estudando Angular, C# e Java
-- 💙 Dev Full Stack Jr @ Itaú
-- 💬 Contate-me no email: julia.tallcaroline@gmail.com
-- 😄 Pronouns: ela/dela
+- 🌱 Developing in Python and Typescript (Angular)
+- 💙 Software Developer @ Meli
+
 
 <div align="center">
   <a href="https://github.com/juliatlrc">
